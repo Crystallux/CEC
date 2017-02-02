@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	resizeOnImport="false"
+	useFullscreenExpand="false"
+	indexPageName="gallery.html"
+	backgroundColor="rgba(240,184,35,1)"
+
+>
+  <image imageURL="images/IMG_0006.jpg"
+	thumbURL="thumbs/IMG_0006.jpg"
+	linkURL="images/IMG_0006.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Mack\Desktop\Comley Excavating Website Pictures\IMG_0006.jpg">
+    <title><![CDATA[IMG_0006]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_0005.jpg"
+	thumbURL="thumbs/IMG_0005.jpg"
+	linkURL="images/IMG_0005.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Mack\Desktop\Comley Excavating Website Pictures\IMG_0005.jpg">
+    <title><![CDATA[IMG_0005]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_0035.jpg"
+	thumbURL="thumbs/IMG_0035.jpg"
+	linkURL="images/IMG_0035.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Mack\Desktop\Comley Excavating Website Pictures\IMG_0035.jpg">
+    <title><![CDATA[IMG_0035]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_0033.jpg"
+	thumbURL="thumbs/IMG_0033.jpg"
+	linkURL="images/IMG_0033.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Mack\Desktop\Comley Excavating Website Pictures\IMG_0033.jpg">
+    <title><![CDATA[IMG_0033]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_0186.jpg"
+	thumbURL="thumbs/IMG_0186.jpg"
+	linkURL="images/IMG_0186.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Mack\Desktop\Comley Excavating Website Pictures\IMG_0186.jpg">
+    <title><![CDATA[IMG_0186]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_0200.jpg"
+	thumbURL="thumbs/IMG_0200.jpg"
+	linkURL="images/IMG_0200.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Mack\Desktop\Comley Excavating Website Pictures\IMG_0200.jpg">
+    <title><![CDATA[IMG_0200]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_0226.jpg"
+	thumbURL="thumbs/IMG_0226.jpg"
+	linkURL="images/IMG_0226.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Mack\Desktop\Comley Excavating Website Pictures\IMG_0226.jpg">
+    <title><![CDATA[IMG_0226]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_0227.jpg"
+	thumbURL="thumbs/IMG_0227.jpg"
+	linkURL="images/IMG_0227.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Mack\Desktop\Comley Excavating Website Pictures\IMG_0227.jpg">
+    <title><![CDATA[IMG_0227]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_0243.jpg"
+	thumbURL="thumbs/IMG_0243.jpg"
+	linkURL="images/IMG_0243.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Mack\Desktop\Comley Excavating Website Pictures\IMG_0243.jpg">
+    <title><![CDATA[IMG_0243]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_0272.jpg"
+	thumbURL="thumbs/IMG_0272.jpg"
+	linkURL="images/IMG_0272.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Mack\Desktop\Comley Excavating Website Pictures\IMG_0272.jpg">
+    <title><![CDATA[IMG_0272]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_0274.jpg"
+	thumbURL="thumbs/IMG_0274.jpg"
+	linkURL="images/IMG_0274.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Mack\Desktop\Comley Excavating Website Pictures\IMG_0274.jpg">
+    <title><![CDATA[IMG_0274]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_0294.jpg"
+	thumbURL="thumbs/IMG_0294.jpg"
+	linkURL="images/IMG_0294.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Mack\Desktop\Comley Excavating Website Pictures\IMG_0294.jpg">
+    <title><![CDATA[IMG_0294]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_0313.jpg"
+	thumbURL="thumbs/IMG_0313.jpg"
+	linkURL="images/IMG_0313.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Mack\Desktop\Comley Excavating Website Pictures\IMG_0313.jpg">
+    <title><![CDATA[IMG_0313]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_0366.jpg"
+	thumbURL="thumbs/IMG_0366.jpg"
+	linkURL="images/IMG_0366.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Mack\Desktop\Comley Excavating Website Pictures\IMG_0366.jpg">
+    <title><![CDATA[IMG_0366]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_0403.jpg"
+	thumbURL="thumbs/IMG_0403.jpg"
+	linkURL="images/IMG_0403.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Mack\Desktop\Comley Excavating Website Pictures\IMG_0403.jpg">
+    <title><![CDATA[IMG_0403]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_0483.jpg"
+	thumbURL="thumbs/IMG_0483.jpg"
+	linkURL="images/IMG_0483.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Mack\Desktop\Comley Excavating Website Pictures\IMG_0483.jpg">
+    <title><![CDATA[IMG_0483]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_0523.jpg"
+	thumbURL="thumbs/IMG_0523.jpg"
+	linkURL="images/IMG_0523.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Mack\Desktop\Comley Excavating Website Pictures\IMG_0523.jpg">
+    <title><![CDATA[IMG_0523]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_0520.jpg"
+	thumbURL="thumbs/IMG_0520.jpg"
+	linkURL="images/IMG_0520.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Mack\Desktop\Comley Excavating Website Pictures\IMG_0520.jpg">
+    <title><![CDATA[IMG_0520]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_0592.jpg"
+	thumbURL="thumbs/IMG_0592.jpg"
+	linkURL="images/IMG_0592.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Mack\Desktop\Comley Excavating Website Pictures\IMG_0592.jpg">
+    <title><![CDATA[IMG_0592]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_0597.jpg"
+	thumbURL="thumbs/IMG_0597.jpg"
+	linkURL="images/IMG_0597.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Mack\Desktop\Comley Excavating Website Pictures\IMG_0597.jpg">
+    <title><![CDATA[IMG_0597]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_0715.jpg"
+	thumbURL="thumbs/IMG_0715.jpg"
+	linkURL="images/IMG_0715.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Mack\Desktop\Comley Excavating Website Pictures\IMG_0715.jpg">
+    <title><![CDATA[IMG_0715]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_0850.jpg"
+	thumbURL="thumbs/IMG_0850.jpg"
+	linkURL="images/IMG_0850.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Mack\Desktop\Comley Excavating Website Pictures\IMG_0850.jpg">
+    <title><![CDATA[IMG_0850]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_2071.jpg"
+	thumbURL="thumbs/IMG_2071.jpg"
+	linkURL="images/IMG_2071.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Mack\Desktop\Comley Excavating Website Pictures\IMG_2071.JPG">
+    <title><![CDATA[IMG_2071]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_2732.jpg"
+	thumbURL="thumbs/IMG_2732.jpg"
+	linkURL="images/IMG_2732.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Mack\Desktop\Comley Excavating Website Pictures\IMG_2732.JPG">
+    <title><![CDATA[IMG_2732]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_2967.jpg"
+	thumbURL="thumbs/IMG_2967.jpg"
+	linkURL="images/IMG_2967.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Mack\Desktop\Comley Excavating Website Pictures\IMG_2967.JPG">
+    <title><![CDATA[IMG_2967]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
