@@ -1655,6 +1655,10 @@
 	p {
 		text-align: justify;
 	}
+	
+	p.center {
+			text-align: center;
+	}
 
 	br.clear {
 		clear: both;
@@ -2535,7 +2539,7 @@
 		.carousel article {
 			display: inline-block;
 			width: 18em;
-			background: #fff;
+			background: #2d417c;
 			text-align: center;
 			padding: 0 1em 3em 1em;
 			margin: 0 2em 0 0;
@@ -2562,6 +2566,11 @@
 
 			.carousel article p {
 				text-align: center;
+				color: #ffffff;
+			}
+			.carousel article h3 {
+				text-align: center;
+				color: #ffffff;
 			}
 
 /* Wide */
